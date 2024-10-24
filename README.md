@@ -1,3 +1,11 @@
+## **1º-Documento de Levantamento de Requisitos**
+
+**Projeto**: Gerenciador de Hardware para Laboratórios
+
+**Data**: 24/10/2024
+
+**Responsável**: Bruno Henrique e Nathan 
+
 # Gerenciamento
 ### **1. Introdução**
 
